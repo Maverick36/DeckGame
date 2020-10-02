@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Maverick\IdeaProjects\DeckGame\out\production\Dec
+ kGame\Deck\Challenge\Main.class
+Main-Class: Main.java
+
